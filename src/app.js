@@ -27,6 +27,8 @@ app.use(myconnection(mysql, {
     database: 'crudnodejs'
 }));
 
+//mi nombre es noah jejeje aqui haciendo una actualización ;)
+
 app.listen(app.get('port'), () => {
     console.log('listening on port ', app.get('port'));
 });
