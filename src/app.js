@@ -1,9 +1,10 @@
 const express = require('express');
 const { engine } = require('express-handlebars');
-const myconnection = require('express-myconnection');
-const bodyParser = require('body-parser');
-const mysql = require('mysql');
-const tasksRoutes = require('./routes/tasks');
+asddasd
+const app = express();
+app.set('port', 4000);
+asdasd
+asdasd
 
 const app = express();
 app.set('port', 4000);
